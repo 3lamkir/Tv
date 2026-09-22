@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Remote Remap</string>
+    <string name="accessibility_service_description">Позволяет назначать действия на кнопки пульта</string>
+</resources>
